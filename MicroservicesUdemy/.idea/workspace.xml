@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cf78fb6-8f52-4675-92c1-60799f747fa1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-    </list>
+    <list default="true" id="0cf78fb6-8f52-4675-92c1-60799f747fa1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +175,7 @@
       <workItem from="1713869854615" duration="3688000" />
       <workItem from="1713952645203" duration="159000" />
       <workItem from="1713952866366" duration="428000" />
-      <workItem from="1713956527946" duration="258000" />
+      <workItem from="1713956527946" duration="987000" />
     </task>
     <task id="LOCAL-00001" summary="test add microservicesUdemy">
       <created>1713952084057</created>
@@ -215,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713956099546</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add steps to recover a lost branch">
+      <created>1713956822328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713956822328</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +239,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test add microservicesUdemy" />
     <MESSAGE value="changes to branch_speranta" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes to branch_speranta" />
+    <MESSAGE value="add steps to recover a lost branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="add steps to recover a lost branch" />
   </component>
 </project>
