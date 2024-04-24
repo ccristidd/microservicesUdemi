@@ -174,6 +174,7 @@
       <workItem from="1713438740077" duration="6137000" />
       <workItem from="1713869854615" duration="3688000" />
       <workItem from="1713952645203" duration="159000" />
+      <workItem from="1713952866366" duration="428000" />
     </task>
     <task id="LOCAL-00001" summary="test add microservicesUdemy">
       <created>1713952084057</created>
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713952190498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test add microservicesUdemy">
+      <created>1713953121788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713953121788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
