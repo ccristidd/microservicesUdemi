@@ -1,0 +1,1 @@
+this is a simple txt file that will be the source of data red by the program (using FileInputStream class)

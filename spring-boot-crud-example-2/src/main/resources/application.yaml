@@ -1,0 +1,14 @@
+# This is an alternative to the properties in the properties file
+#spring:
+#  datasource:
+#    username: user
+#    password: password
+#    url: jdbc:mysql://localhost:3306/db?useSSL=false&serverTimezone=UTC&useLegacyDatetimeCode=false
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL5Dialect
