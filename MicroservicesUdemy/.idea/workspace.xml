@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cf78fb6-8f52-4675-92c1-60799f747fa1" name="Changes" comment="" />
+    <list default="true" id="0cf78fb6-8f52-4675-92c1-60799f747fa1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713953121788</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changes to branch_speranta">
+      <created>1713955759742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713955759742</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +225,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test add microservicesUdemy" />
-    <option name="LAST_COMMIT_MESSAGE" value="test add microservicesUdemy" />
+    <MESSAGE value="changes to branch_speranta" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to branch_speranta" />
   </component>
 </project>
