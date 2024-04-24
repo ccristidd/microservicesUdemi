@@ -23,7 +23,7 @@ services:
       - eazybank
   cards:
     image: "ccristidd/cards:s4"
-    container_name: "accounts-ms"
+    container_name: "cards-ms"
     ports:
       - "9000:9000"
     deploy:
