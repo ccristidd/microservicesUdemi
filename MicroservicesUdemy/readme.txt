@@ -10,3 +10,14 @@ http://localhost:8080/api/fetch
 documentation interface
 http://localhost:8080/swagger-ui/index.html#/
 
+to recover a deleted branch from github or elese
+https://stackoverflow.com/questions/4674226/does-github-keep-deleted-remote-branches-in-history-if-so-can-those-be-restore
+Steps:
+1.Find your Commit ID: Search for a branch using git reflog
+git reflog -> then Search for the branch name in the reflog and note the HEAD{x} point or the commit ID.
+2. Re-create the branch from the Reflog HEAD point:
+git checkout -b branch_name HEAD@{27}
+2.alternative
+Re-create the branch from the commit ID:
+You can checkout the commit ID and create a branch off of that commit point:
+git checkout -b branch_name <commit id>
