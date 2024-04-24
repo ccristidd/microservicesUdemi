@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cf78fb6-8f52-4675-92c1-60799f747fa1" name="Changes" comment="" />
+    <list default="true" id="0cf78fb6-8f52-4675-92c1-60799f747fa1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/accounts/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "C:/Users/ZH07FO/Documents/MicroservicesUdemy",
+    "last_opened_file_path": "C:/Users/ZH07FO/Developer/ING/P17803-BusinessLendingSolution",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -175,7 +178,7 @@
       <workItem from="1713869854615" duration="3688000" />
       <workItem from="1713952645203" duration="159000" />
       <workItem from="1713952866366" duration="428000" />
-      <workItem from="1713956527946" duration="987000" />
+      <workItem from="1713956527946" duration="3264000" />
     </task>
     <task id="LOCAL-00001" summary="test add microservicesUdemy">
       <created>1713952084057</created>
@@ -219,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713956822328</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add steps to recover a lost branch">
+      <created>1713957842609</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713957842609</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
